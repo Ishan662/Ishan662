@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ishan662
-- 👀 I’m interested in cloud computing 
+- 👀 I’m interested in data engineering 
 - 🌱 I’m currently learning a degree in computer science
-- 💞️ I’m looking to collaborate on some hand's on projects based on cloud computing
+- 💞️ I’m looking to collaborate on some hand's on projects based on data engineering
 - 📫 How to reach me-via gmail(ishanmadurangai662@gmail.com)
 - 😄 Pronouns: he/him/brother
 - ⚡ Fun fact: movies,favourite dog kinds bla bla bla....
