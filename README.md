@@ -1,7 +1,7 @@
 [![MasterHead](https://th.bing.com/th/id/R.c6b0cda0c4d5baf14d24f82c672a2f07?rik=j4Uyl0CnuUI%2bLg&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ishan Maduranga</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan662&label=Profile%20views&color=0e75b6&style=flat" alt="ishan662" /> </p>
-<img align="5px" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1360/0*gqO3slLmGb4mUeje.gif">
+
 
 - 🔭 I’m currently learning **Computer science**
 
