@@ -1,5 +1,7 @@
-[![MasterHead](https://th.bing.com/th/id/R.c6b0cda0c4d5baf14d24f82c672a2f07?rik=j4Uyl0CnuUI%2bLg&pid=ImgRaw&r=0)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ishan Maduranga</h1>
+<h2>Passionate in Data Sloutions</h2>
+[![MasterHead](https://th.bing.com/th/id/R.c6b0cda0c4d5baf14d24f82c672a2f07?rik=j4Uyl0CnuUI%2bLg&pid=ImgRaw&r=0)](https://rishavchanda.io)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ishan662&label=Profile%20views&color=0e75b6&style=flat" alt="ishan662" /> </p>
 
 
